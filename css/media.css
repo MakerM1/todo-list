@@ -1,0 +1,55 @@
+/* iPhone SE */
+
+@media (max-width: 376px) {
+    .grid {
+        grid-template-columns: 124.6px 124.6px 90px;
+    }
+}
+
+/* iPhone XR */
+
+@media (max-width: 415px) {
+    .grid {
+        grid-template-columns: 144.2px 144.2px 90px;
+    }
+}
+
+/* iPhone 12 Pro */
+
+@media (max-width: 391px) {
+    .grid {
+        grid-template-columns: 132.2px 132.2px 90px;
+    }
+}
+
+/* Pixel 5 */
+
+@media (max-width: 394px) {
+    .grid {
+        grid-template-columns: 133.8px 133.8px 90px;
+    }
+}
+
+/* Samsung Galaxy S8+ */
+
+@media (max-width: 361px) {
+    .grid {
+        grid-template-columns: 117px 117px 90px;
+    }
+}
+
+/* Galxy Fold */
+
+@media (max-width: 281px) {
+    .name-box {
+        font-size: 13px;
+    }
+
+    .date-box {
+        font-size: 13px;
+    }
+
+    .grid {
+        grid-template-columns: 77px 77px 90px;
+    }
+}
